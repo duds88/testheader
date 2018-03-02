@@ -1,0 +1,29 @@
+header{
+	background-image: url("./moto.jpeg");
+	height: 30rem;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.container{
+	background-color: CadetBlue;
+	padding: 5px;
+	position: relative;
+	top: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	max-width: 1200px;
+	margin: 20px;
+}
+h4{
+	color: black;
+	font-family: Helvetica;
+	font-size: 2rem;
+}
+header li{
+	display: inline;
+	padding: 0 30px;
+	justify-content: flex-end;
+}

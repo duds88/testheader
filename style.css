@@ -27,3 +27,22 @@ header li{
 	padding: 0 30px;
 	justify-content: flex-end;
 }
+/* The second header area */
+
+.header2{
+	background-color: Chocolate;
+	padding: 10px;
+	max-width: 1200px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: relative;
+	top: 20px;
+	margin: 20px;
+}
+.header2 .menu{
+	color: Red;
+	display: inline;
+	padding: 20px 30px;
+	justify-content: flex-end;
+}
